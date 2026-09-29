@@ -1,5 +1,5 @@
-Name : Ankit Mewada
-Registration No : 25MIM10014
+Name : Aryan Mewada
+Registration No : 26MIM10234
 
 # FASTag Scam Detection Tool.
 
