@@ -1,5 +1,6 @@
-Name : Aryan Mewada
-Registration No : 26MIM10234
+## Name : Aryan Mewada
+
+## Registration No : 26MIM10234
 
 # FASTag Scam Detection Tool.
 
